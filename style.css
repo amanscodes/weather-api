@@ -1,0 +1,38 @@
+
+body{
+    background-color: hsl(192, 43%, 75%);
+}
+.container{
+    margin-top: 40px;
+}
+.card{
+    background-color: #e8edf1;
+    
+}
+.top{
+    margin-top: 20px;
+}
+.card-header{
+    background-color: rgb(228, 215, 215);
+    font-size: 20px;
+}
+
+
+.button:hover .text {
+    color: #181717;
+}
+.col-sm-12{
+    margin-bottom: 20px;
+}
+.card-body {
+    height: 500px; 
+    overflow: hidden;
+  }
+.card-img-top {
+    max-height: 100%;
+    width: auto;
+    margin-bottom: 10px;
+}
+
+  
+  
